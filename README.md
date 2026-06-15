@@ -20,4 +20,4 @@ npm run dev            # start the Vite dev server, then open it in a browser
 Requires the HackRF host tools installed and a HackRF One connected.
 
 ## License
-Dual-licensed: Unlicense (public domain) or GPL-3.0. See `UNLICENSE` / `LICENSE`.
+GPL-3.0 — see [`LICENSE`](LICENSE).
